@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://blog.lingoda.com/wp-content/uploads/2020/10/How-To-Say-Hello-in-10-Languages.jpg" height="300" ; width="500"> </p>
+
 
 
 
