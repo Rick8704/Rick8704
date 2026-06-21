@@ -4,7 +4,17 @@
   <b>Data Engineering Undergraduate</b> · Universiti Teknologi Malaysia<br>
   Aspiring Data Engineer · Lifelong Learner
 </p>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/yu-hin-ng-475777298/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://rick8704.github.io/E-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/E--Portfolio-6c63ff?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/Rick8704" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rick8704&label=Profile%20views&color=6c63ff&style=flat" alt="Profile views" />
 </p>
