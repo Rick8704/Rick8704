@@ -100,7 +100,7 @@ status:
 ## 🤝 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/yu-hin-ng-475777298/" target="_blank">
+  <a href="www.linkedin.com/in/ngyuhin" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
   <a href="https://github.com/Rick8704" target="_blank">
@@ -119,4 +119,4 @@ status:
 
 ---
 
-<p align="center"><i>✨ This profile README is part of my e-portfolio for SECP3843 — Special Topic in Data Engineering, UTM Semester II 2025/2026.</i></p>
+
