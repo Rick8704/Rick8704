@@ -5,7 +5,7 @@
   Aspiring Data Engineer · Lifelong Learner
 </p>
 <p align="center">
-  <a href="www.linkedin.com/in/ngyuhin" target="_blank">
+  <a href="https://www.linkedin.com/in/ngyuhin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://rick8704.github.io/E-Portfolio/" target="_blank">
