@@ -28,7 +28,7 @@
 
 ## 🙋 About Me
 
-I'm a Data Engineering student at UTM, focusing on how data is stored, moved, and made useful. My coursework spans database systems, cloud platforms, AI, and software development. I enjoy working on full-stack systems — from schema design to user-facing applications — and I'm always looking for ways to apply what I learn to real industry problems.
+I'm a Data Engineering student at UTM, focusing on how data is stored, moved, and made useful. My coursework spans database systems, cloud platforms, AI, and software development. I enjoy working on full-stack systems from schema design to user-facing applications and I'm always looking for ways to apply what I learn to real industry problems.
 
 | | |
 |---|---|
