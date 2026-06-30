@@ -117,7 +117,7 @@ status:
 
 **UTM X Hackathon — PixPay** *(May 2026)*
 - Focused on UI/UX design to deliver an intuitive fintech payment platform.
-- Assisted in backend development using Laravel and Bootstrap.
+- Assisted in backend development using Bootstrap.
 - Contributed to feature planning and rapid prototype development during the competition.
 
 ---
